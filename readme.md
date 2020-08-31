@@ -1,5 +1,5 @@
 # One Rep Max and RPE Calculator
-This calculator is used to calculate a user's one rep maximum on the benchpress. It will also output expected rep ranges at each level of perceived exertion from 95% to 80%. 
+This calculator is used to calculate a user's one rep maximum on the bench press. It will also output expected rep ranges at each level of perceived exertion from 95% to 80%. 
 
 - 1RM & RPE Calculator
     - [Terminology](#Terminology)
@@ -7,7 +7,7 @@ This calculator is used to calculate a user's one rep maximum on the benchpress.
     - [Sources](#Sources)
 
 ## Terminology
-In benchpressing, a person lifts a bar with a certain amount of weight. A one rep max (1RM) is the weight that a person can move through the eccentric and concentric motion for a maximum of one repitition. Since the lifter can only complete the movement once, they are at 100% rate of perceived effort, known as 100% RPE. As weight on the bar is reduced the lifter should be able to complete multiple repititions. At 95% RPE the lifter is able to complete the movement for 2 repititions. At 93% RPE, 3 repititions should be completed. 
+In bench pressing, a person lifts a bar with a certain amount of weight. A one rep max (1RM) is the weight that a person can move through the eccentric and concentric motion for a maximum of one repetition. Since the lifter can only complete the movement once, they are at 100% rate of perceived effort, known as 100% RPE. As weight on the bar is reduced the lifter should be able to complete multiple repetitions. At 95% RPE the lifter is able to complete the movement for 2 repetitions. At 93% RPE, 3 repetitions should be completed. 
 
 The 1RM calculator uses the amount of weight lifted for 4-6 reps at 85% RPE in order to predict the 1RM. The formula in use is (weight_lifted * 1.1307) + 0.6998.
 The same formula is used for inputs of both pounds and kilograms.

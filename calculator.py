@@ -4,12 +4,9 @@
 
 while True:  # Asks for weight input until a float is entered.
     try:
-        # Convert input into float for later usage.
-        input_weight_lb = float(
-            input("How much weight can you benchpress for 4-6 reps? "))
+        input_weight_lb = float(input("How much weight can you benchpress for 4-6 reps? ")) # Convert input into float for later usage.
     except ValueError:
-        # Retry until float or int is entered bt user.
-        print("Enter a valid number.")
+        print("Enter a valid number.") # Convert input into float for later usage.
         continue
     else:
         break
