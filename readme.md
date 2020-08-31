@@ -1,7 +1,7 @@
 # One Rep Max and RPE Calculator
 This calculator is used to calculate a user's one rep maximum on the benchpress. It will also output expected rep ranges at each level of perceived exertion from 95% to 80%. 
 
-- [1RM & RPE Calculator]
+- 1RM & RPE Calculator
     - [Terminology](#Terminology)
     - [Usage](#Usage)
     - [Sources](#Sources)
