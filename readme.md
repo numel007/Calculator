@@ -22,6 +22,6 @@ Input desired unit of measurement
 Output provides a summary of the entered data, 1RM, and descending RPE ranges from 100% to 80%.
 
 ## Sources
-- [Men's Health] (https://www.menshealth.com/uk/building-muscle/a748257/how-to-calculate-one-rep-max/#:~:text=Work%20Out%20Your%20Weight,1RM%20will%20be%2068.5kg.)
+- [Men's Health] (https://www.menshealth.com/uk/building-muscle/a748257/how-to-calculate-one-rep-max)
 - [Bodybuilding.com](https://www.bodybuilding.com/fun/other7.htm)
 - [CDC] (https://www.cdc.gov/physicalactivity/basics/measuring/exertion.htm)
