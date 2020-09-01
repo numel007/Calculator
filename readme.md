@@ -15,9 +15,9 @@ The same formula is used for inputs of both pounds and kilograms.
 Percentages of RPE are then calculated based off the 1RM and are presented along with their corresponding rep ranges.
 
 ## Usage
-Input weight lifted
-Input number of reps completed
-Input desired unit of measurement
+- Input weight lifted
+- Input number of reps completed
+- Input desired unit of measurement
 
 Output provides a summary of the entered data, 1RM, and descending RPE ranges from 100% to 80%.
 
